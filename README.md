@@ -1,2 +1,2 @@
 # untitled-ninja-game
-Voxel ninjas ftw m8
+Voxel ninjas m8.
